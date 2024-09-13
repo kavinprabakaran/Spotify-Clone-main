@@ -1,17 +1,18 @@
-# Spotify Clone 🎧
+# TGS Music 🎧
 
-A Spotify clone built with React JS and Tailwind CSS, showcasing a dynamic and responsive user interface. This project is a demonstration of modern web development techniques using React JS hooks, React-DOM for navigation, and the Tailwind CSS framework for styling.
+A TGS Music built with React JS and Tailwind CSS, showcasing a dynamic and responsive user interface. This project is a demonstration of modern web development techniques using React JS hooks, React-DOM for navigation, and the Tailwind CSS framework for styling.
 
 ## Table of Contents
 
-- [Features](#features)
-- [Demo](#demo)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+- [TGS Music 🎧](#tgs-music-)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Demo](#demo)
+  - [Technologies](#technologies)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Acknowledgements](#acknowledgements)
 
 ## Features
 
@@ -21,7 +22,7 @@ A Spotify clone built with React JS and Tailwind CSS, showcasing a dynamic and r
 
 ## Demo
 
-Check out the live demo [here](http://spotify-codewithbalaji.vercel.app).
+Check out the live demo [here](https://main--tgmus.netlify.app/).
 
 ## Technologies
 
@@ -31,36 +32,28 @@ Check out the live demo [here](http://spotify-codewithbalaji.vercel.app).
 
 ## Installation
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/codewithbalaji/spotify-clone.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd spotify-clone
-    ```
-3. Install dependencies:
+    
+1. Install dependencies:
     ```sh
     npm install
     ```
+    
 
 ## Usage
 
 1. Start the development server:
     ```sh
-    npm start
+    npm run dev
     ```
-2. Open your browser and navigate to `http://localhost:3000`.
+2. Open your browser and navigate to `http://localhost:5173/`.
 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
 
-This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-Special thanks to the GreatStack YouTube Channel for their invaluable tutorials and guidance.
+Special thanks to the GUVI for their invaluable tutorials and guidance.
 

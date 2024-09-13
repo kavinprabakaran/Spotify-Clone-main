@@ -18,8 +18,8 @@ const DisplayAlbum = () => {
           <h2 className="text-5xl font-bold mb-4 md:text-7xl">{albumData.name}</h2>
           <h4>{albumData.desc}</h4>
           <p className="mt-1">
-            <img className="inline-block w-5" src={assets.spotify_logo} alt="" />
-            <b> Spotify </b>
+            <img className="inline-block w-5" src={assets.TGS Music} alt="" />
+            <b> TGS Music </b>
             <b>• 1,232,123 saves </b>
             • <b>50 songs,</b>
             <span className="text-[#a7a7a7]"> about 2hr 30 min</span>   
@@ -28,7 +28,7 @@ const DisplayAlbum = () => {
       </div>
       <div className="grid grid-cols-3 sm:grid-cols-4 mt-10 mb-4 pl-2 text-[#a7a7a7]">
         <p><b className="mr-4">#</b>Title</p>
-        <p>Album</p>
+        <p>Albums</p>
         <p className="hidden sm:block">Date Added</p>
         <img className="m-auto w-4" src={assets.clock_icon} alt="" />
       </div>
