@@ -19,7 +19,7 @@ const Sidebar = () => {
         <div className="p-4 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <img className="w-8" src={assets.stack_icon} alt="stack_icon" />
-            <p className="font-semibold">Your Libary</p>
+            <p className="font-semibold">MY Libary</p>
           </div>
           <div className="flex items-center gap-3">
             <img className="w-5" src={assets.plus_icon} alt="plus_icon" />
