@@ -55,5 +55,5 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Acknowledgements
 
-Special thanks to the GUVI for their invaluable tutorials and guidance.
+Special thanks to the ",,,,,s" for their valuable tutorials and guidance.
 
